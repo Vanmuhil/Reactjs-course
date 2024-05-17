@@ -1,0 +1,17 @@
+.loading-bar {
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+   
+    
+}
+
+.loading {
+    height: 100%;
+    border-radius: 50px;
+    background-color: rgb(167, 167, 204);
+    transition:width 1s linear
+   
+    
+    
+}

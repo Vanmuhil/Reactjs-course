@@ -1,0 +1,23 @@
+.form1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+}
+.table{
+    margin-top: 75px;
+    border-color: blueviolet;
+    background-color: rgba(72, 167, 223, 0.781);
+    color: rgb(0, 9, 12);
+    border: 50px;
+}
+.form2{
+    text-align: center;
+    background-color: rgb(18, 143, 18);
+    color: rgb(211, 226, 224);
+    padding: 15px;
+}
+/* #loading{
+    background-color: blueviolet;
+    width: 0%;
+} */
